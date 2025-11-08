@@ -1,7 +1,7 @@
 :root{
   --surface: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 20%, #f1f5f9 100%);
   --surface-overlay: linear-gradient(135deg, rgba(248, 250, 252, 0.9) 0%, rgba(241, 245, 249, 0.95) 100%);
-  --card: rgba(255, 255, 255, 0.4);
+  --card: rgba(218, 219, 192, 0.4);
   --card-shadow: rgba(255, 255, 255, 0.2);
   --card-glass: rgba(255, 255, 255, 0.3);
   --muted: #64748b;
