@@ -87,7 +87,7 @@ body::before {
 }
 
 .card {
-  width: min(90vw, 460px);
+  width: min(90dvw, 65dvh);
   background: var(--card);
   backdrop-filter: blur(32px);
   -webkit-backdrop-filter: blur(32px);
