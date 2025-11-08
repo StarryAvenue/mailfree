@@ -23,7 +23,7 @@
   /* 卡片和容器 */
   --card: rgba(255, 255, 255, 0.85);
   --card-hover: rgba(255, 255, 255, 0.95);
-  --card-glass: rgba(255, 255, 255, 0.6);
+  --card-glass: #f7f3e8;
   --card-gradient: linear-gradient(135deg, rgba(255, 255, 255, 0.8) 0%, rgba(248, 250, 252, 0.9) 100%);
   
   /* 主色系 */
