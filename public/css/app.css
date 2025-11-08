@@ -1259,16 +1259,6 @@ body::before{
   overflow: hidden;
 }
 
-.card::before{
-  content: '';
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  height: 4px;
-  background: linear-gradient(90deg, var(--primary), #8b5cf6, #ec4899);
-}
-
 .card:hover{
   box-shadow: var(--shadow-lg);
   transform: translateY(-4px);
