@@ -83,7 +83,7 @@
    卡片设计 - 现代玻璃拟态效果
    =========================================== */
 .admin-page .card {
-  background: rgba(255, 255, 255, 0.8);
+  background: #f7f3e8;
   backdrop-filter: blur(16px);
   -webkit-backdrop-filter: blur(16px);
   border-radius: 20px;
