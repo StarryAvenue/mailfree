@@ -177,7 +177,7 @@ body::before{
   max-width: 1200px; /* 头部基准宽度 */
   margin: 0 auto;
   padding: 16px 32px;
-  gap: 20px;
+/*   gap: 20px; */
   transition: var(--transition);
   box-shadow: var(--shadow-glass);
 }
