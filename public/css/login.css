@@ -56,6 +56,7 @@ html, body {
 }
 
 body {
+  min-width: 300px;
   margin: 0;
   background: var(--surface);
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
